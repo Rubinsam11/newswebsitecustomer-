@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer-main">
         <div className="footer-col">
           <h3 className="footer-logo">
-            <span className="footer-logo-accent">News</span>Hub
+            <span className="footer-logo-accent">News</span>tamil
           </h3>
           <p className="footer-desc">
             Your trusted source for breaking news, in-depth analysis, and comprehensive coverage of global events.
@@ -70,7 +70,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>
-          © {currentYear} NewsHub. All rights reserved. | Delivering truth, one story at a time.
+          © {currentYear}  rubin sam All rights reserved. | Delivering truth, one story at a time.
         </p>
       </div>
     </footer>
